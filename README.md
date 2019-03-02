@@ -8,9 +8,9 @@ The repository comprises of numerous ipython notebooks that shows the analysis o
 The ipython notebooks present in this repository was created by me while I was doing the course 'Machine Learning Foundations: A Case Study Approach' on coursera.
 
 ## Tech Stack
-Language used - Python
-Notebooks - Jupyter Notebooks
-Libraries used:-
--->Graphlab-Create
--->SFrame
--->Matplotlib
+#### Language used - Python
+#### Notebooks - Jupyter Notebooks
+#### Libraries used:-
+##### -->Graphlab-Create
+##### -->SFrame
+##### -->Matplotlib
